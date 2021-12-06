@@ -1,3 +1,9 @@
 ------------ THREE JS ------------
-#1 -> clone git repository
-#2 -> Explain init codes
+#1 -> github dan repo ni kochirish
+        ✅ git clone https://github.com/arslonbekXX/three-demo.git
+#2 -> Boshlang'ich kodlarni tushuntirish
+#3 -> Nimalarni organishimiz mumkin
+        ✅ three js boshlang'ich
+        ✅ javaScript boshlangich bilimlar
+#4 -> Barchamiz test qilib koramiz
+
